@@ -9,6 +9,21 @@ White shirt with an **M** mark, rosy cheeks, 9 animation states — including a 
 
 ## Install
 
+### Ask Codex to install it
+
+Just tell Codex:
+
+```
+Install the pet from https://github.com/0xagata-prog/moss-mascot-codex-pet
+```
+
+Or paste this prompt directly:
+
+```
+Run this in PowerShell:
+irm https://raw.githubusercontent.com/0xagata-prog/moss-mascot-codex-pet/main/install.ps1 | iex
+```
+
 ### Windows — one line
 
 Open PowerShell and run:
