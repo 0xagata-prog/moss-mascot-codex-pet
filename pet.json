@@ -1,0 +1,21 @@
+{
+  "id": "moss-mascot",
+  "displayName": "MOSS Mascot",
+  "description": "A green fuzzy MOSS-style desktop mascot with a white shirt, M mark, blush cheeks, coding sprint animation, and a sunglasses suit review variant.",
+  "spritesheetPath": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "cols": 8,
+  "rows": 9,
+  "animations": {
+    "idle":          { "row": 0, "frames": 6, "fps": 6 },
+    "running-right": { "row": 1, "frames": 8, "fps": 12 },
+    "running-left":  { "row": 2, "frames": 8, "fps": 12 },
+    "waving":        { "row": 3, "frames": 4, "fps": 8 },
+    "jumping":       { "row": 4, "frames": 5, "fps": 10 },
+    "failed":        { "row": 5, "frames": 8, "fps": 8 },
+    "waiting":       { "row": 6, "frames": 6, "fps": 6 },
+    "running":       { "row": 7, "frames": 6, "fps": 12 },
+    "review":        { "row": 8, "frames": 6, "fps": 8 }
+  }
+}
