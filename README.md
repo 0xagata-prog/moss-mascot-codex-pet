@@ -21,7 +21,7 @@ Or paste this prompt directly:
 
 ```
 Run this in PowerShell:
-irm https://raw.githubusercontent.com/0xagata-prog/moss-mascot-codex-pet/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/0xagata-prog/moss-mascot-codex-pet/v1.0.0/install.ps1 | iex
 ```
 
 ### Windows — one line
@@ -29,13 +29,13 @@ irm https://raw.githubusercontent.com/0xagata-prog/moss-mascot-codex-pet/main/in
 Open PowerShell and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/0xagata-prog/moss-mascot-codex-pet/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/0xagata-prog/moss-mascot-codex-pet/v1.0.0/install.ps1 | iex
 ```
 
 ### macOS / Linux — one line
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/0xagata-prog/moss-mascot-codex-pet/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/0xagata-prog/moss-mascot-codex-pet/v1.0.0/install.sh | sh
 ```
 
 Then **fully restart Codex** and go to **Settings → Appearance → Pet**, select `MOSS Mascot`.
